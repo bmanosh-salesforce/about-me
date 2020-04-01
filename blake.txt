@@ -1,5 +1,5 @@
 Name: Blake Manosh
 Company: Salesforce
-Title: Lead Infrastructure Engineer
-Manager: Myself
+Title: Lead Software Engineer
+Manager: Ed
 Notes: Previous Contractor
