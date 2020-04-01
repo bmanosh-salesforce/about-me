@@ -1,4 +1,4 @@
 Name: Blake Manosh
 Company: Salesforce
-Title: Lead Infrastructure Engineer
-Manager: B Man
+Title: Lead Software Engineer
+Ed's Manager: Vicky
