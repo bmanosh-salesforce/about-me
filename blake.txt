@@ -1,4 +1,5 @@
 Name: Blake Manosh
 Company: Salesforce
 Title: Lead Software Engineer
-Ed's Manager: Vicky
+Manager: Ed
+Notes: Previous Contractor
