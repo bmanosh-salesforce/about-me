@@ -12,3 +12,5 @@ General flow of Git commands:
 * git push to push the changes back up to the remote repo
 
  
+How to update an existing repo from an upstream repo:
+https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/syncing-a-fork
