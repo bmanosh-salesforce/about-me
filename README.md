@@ -1,3 +1,6 @@
+If new to a repo:
+* git clone [url] to download the repo locally
+
 General flow of Git commands:
 * Open the terminal
 * cd to a working directory
