@@ -14,3 +14,8 @@ General flow of Git commands:
  
 How to update an existing repo from an upstream repo:
 https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/syncing-a-fork
+
+Example curl command for downloading content: 
+```
+curl -o newContent.zip -u username:password -X "http://localhost:8080/confluence/plugins/servlet/download-aircontent"
+```
